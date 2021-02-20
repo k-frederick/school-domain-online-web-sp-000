@@ -19,7 +19,9 @@ class School
   end
 
   def grade
+    
   end
+  
   def sort
   end
 end
